@@ -45,3 +45,22 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.about-us {
+    background-color: #f0f0f0;
+    padding: 40px;
+}
+
+.about-us h2 {
+    font-size: 36px;
+    color: #007acc;
+}
+
+.about-us p {
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}

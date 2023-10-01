@@ -45,3 +45,43 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.mission {
+    padding: 1rem;
+    background-color: #f0f0f0;
+}
+
+.mission h2 {
+    font-size: 3rem;
+    color: #007acc;
+}
+
+.mission-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mission-text {
+    flex: 0.5;
+    padding-right: 5rem;
+    
+}
+
+.mission-text p {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 2rem;
+    
+}
+
+.mission-image {
+    flex: 1;
+    text-align: center;
+}
+
+.mission-image img {
+    max-width: 100%;
+    height: auto;
+}

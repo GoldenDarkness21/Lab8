@@ -9,7 +9,7 @@ body {
 header {
     background-color: #007acc;
     color: #fff;
-    padding: 10px 0;
+    padding: 1rem 0;
 }
 
 nav ul {
@@ -20,7 +20,7 @@ nav ul {
 
 nav li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 2rem;
 }
 
 nav a {
@@ -30,7 +30,7 @@ nav a {
 }
 
 section {
-    padding: 40px;
+    padding: 4rem;
 }
 
 h1, h2 {
@@ -48,18 +48,18 @@ a:hover {
 
 .about-us {
     background-color: #f0f0f0;
-    padding: 40px;
+    padding: 4rem;
 }
 
 .about-us h2 {
-    font-size: 36px;
+    font-size: 2rem;
     color: #007acc;
 }
 
 .about-us p {
-    font-size: 18px;
+    font-size: 1rem;
     color: #333;
-    margin-top: 20px;
+    margin-top: 2rem;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;

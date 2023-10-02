@@ -9,7 +9,7 @@ body {
 header {
     background-color: #007acc;
     color: #fff;
-    padding: 10px 0;
+    padding: 1rem 0;
 }
 
 nav ul {
@@ -20,7 +20,7 @@ nav ul {
 
 nav li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 2rem;
 }
 
 nav a {
@@ -30,7 +30,7 @@ nav a {
 }
 
 section {
-    padding: 40px;
+    padding: 4rem;
 }
 
 h1, h2 {
@@ -46,38 +46,37 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Estilos para la sección "Contáctanos" */
 .contact {
-    padding: 40px;
+    padding: 4rem;
 }
 
 .contact h2 {
-    font-size: 36px;
+    font-size: 3rem;
     color: #007acc;
 }
 
 .contact p {
-    font-size: 18px;
+    font-size: 1rem;
     color: #333;
-    margin-top: 20px;
+    margin-top: 2rem;
 }
 
 .contact-form {
-    margin-top: 20px;
+    margin-top: 2rem;
 }
 
 .contact-form label {
     display: block;
     font-weight: bold;
-    margin-top: 10px;
+    margin-top: 1rem;
 }
 
 .contact-form input,
 .contact-form textarea {
     width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    margin-bottom: 20px;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
@@ -86,7 +85,7 @@ a:hover {
     background-color: #007acc;
     color: #fff;
     border: none;
-    padding: 10px 20px;
+    padding: 1rem 2rem;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -97,19 +96,19 @@ a:hover {
 
 .contact-info {
     background-color: #f0f0f0;
-    padding: 20px;
-    margin-top: 20px;
+    padding: 2rem;
+    margin-top: 2rem;
 }
 
 .contact-info h3 {
-    font-size: 24px;
+    font-size: 2rem;
     color: #007acc;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
 }
 
 .contact-info p {
-    font-size: 16px;
+    font-size: 1rem;
     color: #333;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
